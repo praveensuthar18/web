@@ -1,3 +1,0 @@
-This is the XMPP instant messenger client I created as part of my undergraduate final year project. It uses the Smack library for communicating with XMPP servers. It supports text formatting, emoticons, file transfer, and audio streaming.
-
-To compile the application just type ant. This should create a dist directory containing the XMPP_Client.jar file. It should also copy the lib directory to the dist folder as these are required runtime libraries.
